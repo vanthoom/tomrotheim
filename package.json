@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "tomrotheim",
   "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Express and Nodejs Webapp",
   "engines": {
     "node": "6.10.2"
   },
@@ -10,12 +10,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ejs": "2.5.6",
-    "express": "4.15.2"
+    "express": "4.15.2",
+    "pug": "2.0.0-rc.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/vanthoom/tomrotheim"
   },
   "keywords": [
     "node",
